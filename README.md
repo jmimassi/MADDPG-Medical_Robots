@@ -4,6 +4,11 @@
 
 This project aims to develop a Multi-Agent Deep Deterministic Policy Gradient (MADDPG) algorithm for controlling medical robots to find bodies and then heal them. The goal is to enable collaborative decision-making and coordination among multiple medical robots in order to improve efficiency and effectiveness in finding and healing.
 
+<div align="center">
+    <img src="video/2024-03-0517-05-00-ezgif.com-crop.gif" alt="MADDPG">
+</div>
+
+
 ## Table of Contents
 
 - [Installation](#installation)
