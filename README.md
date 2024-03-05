@@ -29,7 +29,7 @@ Our model is trained to handle a maximum of 2 agents and 2 bodies to find. These
 
 3. To train other configuration, do the same step in the `train.py` file and run `python3 train.py`
 
-##Content
+## Content
 
 - **Checkpoints** contains the value of the weights for each configurations of {agent-bodies}
 - **Data** contains the rewards per agent for each 10 trajectories
