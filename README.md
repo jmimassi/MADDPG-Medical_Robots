@@ -14,7 +14,7 @@ This project aims to develop a Multi-Agent Deep Deterministic Policy Gradient (M
 
 To install and set up the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/MADDPG-Medical_Robots.git`
+1. Clone the repository: `git clone https://github.com/jmimassi/MADDPG-Medical_Robots`
 2. Navigate to the project directory: `cd MADDPG-Medical_Robots`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
